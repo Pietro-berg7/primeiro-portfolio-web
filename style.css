@@ -1,11 +1,40 @@
+* {
+    padding: 0;
+}
+
 body {
-    margin: 20px;
-    color: #fff;
-    background-color: #000;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #b8f2e6;
+    background-color: #5e6472;
+    text-align: center;
+    font-size: 1.2em;
 }
 
 a {
     text-decoration: none;
-    color: aqua;
+    color: #ffa69e;
+    font-style: italic;
+}
+
+.sobre {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    color: #aed9e0;
+}
+
+.habilidade1 {
+    font-size: 1.3em;
+}
+
+.habilidade2 {
+    font-size: 1.1em;
+}
+
+.habilidade3 {
+    font-size: 1.3em;
 }
