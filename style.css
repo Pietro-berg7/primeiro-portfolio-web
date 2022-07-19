@@ -4,9 +4,9 @@
 
 body {
     color: #b8f2e6;
-    background-color: #5e6472;
-    text-align: center;
+    background-color: #5e6472;  
     font-size: 1.2em;
+    text-align: center;
 }
 
 a {
@@ -37,4 +37,39 @@ li {
 
 .habilidade3 {
     font-size: 1.3em;
+}
+
+#foto {
+    float: left;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    padding: 10px;
+    background-color: #faf3dd;
+    margin-right: 20px;
+    margin-left: 280px;
+}   
+
+#position {
+    margin-bottom: 50px;
+}
+
+#sobre {
+    padding-top: 35px;
+}
+
+#habilidade {
+    font-style: italic;
+}
+
+div {
+    text-align: start;
+}
+
+a:hover {
+    color: #e2bcb9;
 }
